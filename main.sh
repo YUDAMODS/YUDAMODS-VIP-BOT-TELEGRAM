@@ -7,4 +7,4 @@ chmod +x main.sh
 npm install telegraf axios cheerio fs gradient-string pino
 
 # Run the bot
-node index.js
+bash start.sh
